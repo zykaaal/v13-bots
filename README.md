@@ -1,5 +1,5 @@
 # v13-bots
-yeni yapmış olduğum botlarım discordu saldığım için paylaşıyorum +30 star +10 forkda burda olur
+yeni yapmış olduğum botlarım discordu saldığım için paylaşıyorum +45 star +15 forkda burda olur
 
 İçindekiler;
 Siteden yönetim ve kurulum,
