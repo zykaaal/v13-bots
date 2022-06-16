@@ -2,7 +2,6 @@
 yeni yapmış olduğum botlarım discordu saldığım için paylaşıyorum +45 star +15 forkda burda olur
 
 İçindekiler;
-Siteden yönetim ve kurulum,
 Slash commands ( Tüm botlar, Tüm komutlar),
 Context menu ( Avatar, mute, jail fln var),
 Sekme koruması,
