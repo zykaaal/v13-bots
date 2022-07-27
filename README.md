@@ -1,5 +1,5 @@
 # v13-bots
-yeni yapmış olduğum botlarım discordu saldığım için paylaşıyorum +45 star +15 forkda burda olur
+yeni yapmış olduğum botlarım discordu saldığım için paylaşıyorum +100 star +30 forkda burda olur
 
 İçindekiler;
 Slash commands ( Tüm botlar, Tüm komutlar),
